@@ -1,4 +1,4 @@
-# Chilled Windows Decompiled
+# Chilled Windows
  Decompile of the original 'chilledwindows.exe' joke virus.
  
  Decompiled using [DNSpy](https://github.com/dnSpy/dnSpy), suprisingly easy to do lmfao
