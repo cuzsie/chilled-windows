@@ -1,0 +1,12 @@
+D:\ChilledWindowsExport\ChilledWindows\bin\Debug\ChilledWindows.exe
+D:\ChilledWindowsExport\ChilledWindows\bin\Debug\ChilledWindows.pdb
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows.csproj.AssemblyReference.cache
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\MainWindow.g.cs
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\App.g.cs
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.cache
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows_MarkupCompile.lref
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\MainWindow.baml
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows.g.resources
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows.csproj.CoreCompileInputs.cache
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows.exe
+D:\ChilledWindowsExport\ChilledWindows\obj\Debug\ChilledWindows.pdb

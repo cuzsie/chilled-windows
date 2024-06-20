@@ -1,0 +1,56 @@
+<Window
+	x:Class="ChilledWindows.MainWindow" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:local="clr-namespace:ChilledWindows"
+	Title="MainWindow"
+	Height="1680"
+	Width="1050"
+	KeyDown="Window_KeyDown">
+	<Grid
+		Background="#FF000000">
+		<MediaElement
+			Name="mediaElement"
+			Margin="0" />
+		<Rectangle
+			Name="bg"
+			Fill="#FF000000"
+			Margin="0,1,0,0"
+			Stroke="#FF000000"
+			Panel.ZIndex="1" />
+		<Image
+			Name="firstBg"
+			Panel.ZIndex="2"
+			Source="Image1.jpg" />
+		<Label
+			Name="label"
+			Content="Label"
+			Visibility="Hidden"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Foreground="#FFFFFFFF"
+			Height="59"
+			Width="280"
+			Panel.ZIndex="5" />
+		<Grid
+			Name="twoGrid"
+			Margin="6"
+			ZIndex="3"
+			Visibility="Hidden"
+			Background="#FF000000"
+			RenderTransformOrigin="0.5,0.5">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition />
+				<ColumnDefinition />
+			</Grid.ColumnDefinitions>
+			<Image
+				Name="bg2"
+				Margin="0,0,3,0"
+				Grid.Column="0"
+				Stretch="Fill"
+				Source="ja.png" />
+			<Image
+				Name="bg3"
+				Margin="3,0,0,0"
+				Grid.Column="1"
+				Stretch="Fill" />
+		</Grid>
+	</Grid>
+</Window>
